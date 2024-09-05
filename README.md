@@ -1,1 +1,1 @@
-This is an CRUD application for movie details made by using HTML,CSS,Javascript,Node.Js,Mysql (Database files are not included here)
+This is a CRUD application for managing movie details, built using HTML,CSS,Javascript,Node.Js,Mysql (Database files not included)
